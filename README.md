@@ -76,13 +76,3 @@ Proyek ini belum menggunakan backend atau basis data. Data contoh disimpan sebag
 - Layout menyesuaikan lebar layar dan menghormati preferensi `prefers-reduced-motion`.
 
 Ini merupakan upaya dasar aksesibilitas, bukan klaim bahwa aplikasi telah lulus audit WCAG.
-
-## Deploy ke GitHub Pages (opsional)
-
-1. Unggah `index.html`, `styles.css`, `script.js`, dan `README.md` langsung ke root repository.
-2. Buka **Settings → Pages** pada repository GitHub.
-3. Pada bagian Build and deployment, pilih **Deploy from a branch**.
-4. Pilih branch `main` dan folder `/(root)`, lalu simpan.
-5. Setelah proses deploy selesai, buka URL GitHub Pages yang diberikan GitHub.
-
-Pastikan `index.html` berada langsung di root repository, bukan di dalam subfolder.
